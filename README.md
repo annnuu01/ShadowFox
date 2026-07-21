@@ -5,6 +5,7 @@ This repository contains all the projects completed during my ShadowFox Data Ana
 ## Projects
 
 ### 1. Beginner Level Project
+-Python libraries documentation
 - Completed ✔️
 
 ### 2. Intermediate Level Project
