@@ -1,2 +1,16 @@
 # ShadowFox
-This repositry is all about ShadowFax's data science internship tasks. All the projects , assignments and task done or created by me will be available here. In this internship I will crete data science projects by using real time data sets.
+# ShadowFox Data Analytics Internship
+
+This repository contains all the projects completed during my ShadowFox Data Analytics Internship.
+
+## Projects
+
+### 1. Beginner Level Project
+- Completed ✔️
+
+### 2. Intermediate Level Project
+- Air Quality Analysis of Delhi Using Python
+- Tools: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+### 3. Advanced Level Project
+- Coming Soon...
