@@ -1,6 +1,6 @@
-# 📊 ShadowFox Data Analytics Internship
+# 📊 ShadowFox Data Science Internship
 
-Welcome to my **ShadowFox Data Analytics Internship** repository. This repository showcases the projects I completed during the internship, demonstrating my skills in **Python, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Business Analytics**.
+Welcome to my **ShadowFox Data Science Internship** repository. This repository showcases the projects I completed during the internship, demonstrating my skills in **Python, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, and Business Analytics**.
 
 Throughout the internship, I worked on projects of increasing complexity—from learning Python fundamentals to performing real-world business data analysis and generating actionable insights.
 
